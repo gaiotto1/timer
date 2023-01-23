@@ -8,8 +8,6 @@ Timer no estilo Pomodoro para controle de tempo de trabalho.
 
 Você pode encontrar o layout da aplicação aqui: https://www.figma.com/file/ySGdXASV7iF3lGLRDeprQE/Ignite-Timer-(Community)?node-id=0%3A1&t=JBWCjWMQMEUkPNoI-0
 
-![Rocket Redis](/.github/layout.png)
-
 ## Como usar
 
 Você precisa ter instalado em seu computador o [Node.js](https://nodejs.org). 
